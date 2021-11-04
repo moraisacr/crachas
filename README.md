@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Chachá" src=".github/preview.gif" width="100%">
+  
 </p>
 
 ## 🚀 Tecnologias
